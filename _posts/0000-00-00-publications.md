@@ -5,7 +5,7 @@ date: 2016-05-20 21:11:27
 author: azuh
 ---
 <strong>Azuh Emmanuel</strong>, David Harwath, and James Glass. "<a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1718.pdf">Towards Bilingual Lexicon Discovery From Visually Grounded Speech Audio.</a>" Proc. Interspeech 2019 (2019): 276-280.
-
+<br/>
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
