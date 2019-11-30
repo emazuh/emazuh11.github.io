@@ -19,7 +19,7 @@ url: "https://emazuh.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/emazuh.github.io"
 cover: "/assets/cover.png"
-logo: "/assets/azuh_fav.png"
+logo: "/assets/my_logo.png"
 
 # Build settings
 markdown: kramdown
