@@ -20,7 +20,7 @@ permalink: /work/
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   <p>
-    {{ post.content | strip_html }}
+    {{ post.content }}
   </p>
 </div>
 {% endfor %}
