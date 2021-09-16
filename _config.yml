@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: Azuh
-url: "https://emazuh.github.io" # the base hostname & protocol for your site
+url: "https://emazuh.github.io/emazuh11.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
